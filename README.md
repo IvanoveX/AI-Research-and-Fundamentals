@@ -9,7 +9,7 @@ Este repositório centraliza meus estudos acadêmicos, desafios de lógica e not
 ## 📂 Estrutura do Repositório
 * `/logic-challenges`: Resoluções de problemas (Beecrowd/LeetCode).
 * `/ibm-data-science`: Exercícios e projetos de cursos da IBM.
-* `/research-papers`: Anotações em literaturas acadeêmicas.
+* `/research-papers`: Anotações em literaturas acadêmicas.
 
 
 ---
